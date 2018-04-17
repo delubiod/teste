@@ -1,0 +1,56 @@
+body {
+	padding-top: 70px;
+}
+.jumbotron {
+	color: #3b8b92;
+	background: #d1f4f5;
+
+
+	
+}
+
+.navbar-inverse {
+	background: #2c3e50;
+}
+
+a {
+	color: #84c5cc;
+}
+
+.navbar-inverse .navbar-brand .navbar-inverse {
+    color: #84c5cc;
+}
+
+.navbar-inverse .navbar-brand {
+	color: #84c5cc;
+}
+
+img {
+	
+	
+	transition: all 1s;
+}
+
+img:hover {
+
+	transform: scale(0.950);
+}
+h1 {
+	font-family: 'Cinzel: 700', serif;
+	color: #84c5cc;
+}
+p {
+	font-family: 'Cinzel: 700', serif;
+}
+
+div {
+	font-family: 'Obitron: 500', sans-serif;
+}
+
+hr {
+    border: 0;
+    height: 0.3px;
+    background: #333;
+    background-image: linear-gradient(to right, #ccc, #333, #ccc);
+}
+
